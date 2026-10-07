@@ -1,0 +1,8 @@
+{
+  "name": "AURA Salon Trichy",
+  "description": "Premium unisex salon in Trichy offering professional hair, grooming, skin and styling services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
